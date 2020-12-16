@@ -1,8 +1,15 @@
-# Frameworks e bibliotecas
+<p align="center">
+  <a> 
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/lealclarissa/exercicio-semana-1">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lealclarissa/exercicio-semana-1">
+  </a>
+</p>
+
+<h1 align="center">Frameworks e bibliotecas</h1>
 
 ## Frameworks:
 
-![Moldura](./images/frames.jpg) 
+![Moldura](./assets/frames.jpg) 
 (1)
 
 Frameworks. Leio e quase que imediatamente a minha mente separa esta palavra em "frame" e "work". A primeira palavra significa moldura, e a segunda, trabalho. Achei pertinente. Por quê? Bem, eu fiz uma rápida pesquisa e selecionei um trecho que resume bem o conceito:
@@ -21,7 +28,7 @@ E é assim com os frameworks. Eles "ditam" os limites do tal projeto. São feito
 
 ## Bibliotecas:
 
-![Biblioteca](./images/biblioteca.jpg)
+![Biblioteca](./assets/biblioteca.jpg)
 (3)
 
 > Bibliotecas são coleções de classes e métodos soltos, que você pode usar para qualquer fim. (4)
@@ -50,10 +57,12 @@ Neste caso, imaginei uma pessoa indo a uma biblioteca. Nela tudo é bem organiza
 
 ---
 
-Escrito por: 
+## Autora
 
-**Clarissa Leal**
+<a>
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/69424163?s=400&u=6c4ceb2494ca08ef4a05454277aee432c6b5644f&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Clarissa Leal</b></sub>
+</a>
 
-*Estudante da 7a turma de Back-End \{reprograma\} em parceria com o MINAs do Porto Digital*.
-
-15 de Agosto de 2020.
+[![Linkedin Badge](https://img.shields.io/badge/-Clarissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarissa-leal/)](https://www.linkedin.com/in/clarissa-leal/)
